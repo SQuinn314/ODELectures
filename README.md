@@ -1,2 +1,4 @@
 # ODELectures
-Jupyter notebooks related to my Ordinary Differential Equations class.
+Jupyter Notebooks for Math 365: Ordinary Differential Equations at Truman State University.
+
+The textbook for this course was "Ordinary Differential Equations" by V. W. Noonburg.
